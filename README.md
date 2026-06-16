@@ -1,1 +1,1 @@
-# lop_vpf02
+Segunda atividade tradicional avaliativa realizada no semestre
